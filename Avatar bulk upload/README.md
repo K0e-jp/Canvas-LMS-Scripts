@@ -13,3 +13,4 @@ It's possible to use other data (ex. student name and last name) to check for ma
 The script can be adjusted to accomodate different image mimetypes, just adjust the convert_bmp_to_jpg function.
 
 
+I left an example line in the csv + a sample .bmp image for testing.
