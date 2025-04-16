@@ -54,7 +54,7 @@ def create_module(course_id):
     if response.status_code != 200:
         print(f"Error creating module for course {course_id}: {response.status_code}")
         print(response.text)
-    response.raise_for_status()  # Will raise an error if the request fails
+    response.raise_for_status()
     module = response.json()
     module_id = module["id"]
 
