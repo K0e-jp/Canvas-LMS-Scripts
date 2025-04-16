@@ -15,3 +15,8 @@ Hides the dristribution graphs for every course in the given terms.
 
 Updates the avatar pictures of all users in the given list.
 
+
+### **-Add module items:**
+
+Creates a new module and "external tool" item for every course in the given terms. Check the readme for more info.
+
