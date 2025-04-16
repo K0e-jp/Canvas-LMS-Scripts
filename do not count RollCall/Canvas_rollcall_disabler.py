@@ -5,7 +5,6 @@ CANVAS_DOMAIN = "-"
 ACCESS_TOKEN = "-"
 TERMS = ["Term name"]
 
-# Headers
 HEADERS = {
     "Authorization": f"Bearer {ACCESS_TOKEN}",
     "Content-Type": "application/json"
