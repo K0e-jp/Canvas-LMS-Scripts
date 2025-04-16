@@ -34,7 +34,6 @@ def convert_bmp_to_jpg(image_path, output_folder):
         print(f"Failed to convert BMP to JPG for {image_path}: {e}")
         return None, None
 
-# Process CSV
 with open(f"{working_path}{csv_filename}") as csv_file:
     read_csv = csv.DictReader(csv_file)
     for row in read_csv:
