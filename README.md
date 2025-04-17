@@ -21,7 +21,7 @@ Updates the avatar pictures of all users in the given list.
 Creates a new module and "external tool" item for every course in the given terms. Check the readme for more info.
 
 
-### **-Pseudo global announcement:**
+### **-Pseudo global announcements:**
 
 Sends out a new announcement in every course in the given terms, these appear differently compared to the actual global announcements offered by Canvas. Check the readme to know which version to use. 
 
