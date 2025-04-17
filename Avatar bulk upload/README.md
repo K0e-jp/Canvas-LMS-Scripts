@@ -1,3 +1,6 @@
+## Notes
+
+
 Canvas has issues processing .bmp images for bulk uploads, the script checks for the mimetype of pictures in the "images" folder and creates a .jpg copy of those images in the "converted_images" folder.
 
 
