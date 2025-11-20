@@ -19,3 +19,9 @@ Adds a function to fetch data on who the primary instructor of each course is an
 
 This version also includes an example on how you can include a course-specific custom link for each announcement. The find_item_id function on line 55 finds the id of an item with a specific name (defined on line 68), this id then gets used in the main function to create a link to that item that gets included in the main text. This is handy if every course in your term has an item/module/page with the same name (for example a page with AI policies, an external tool item for course evaluations, etc.). The message posted is customizable after line 102.
 
+
+### Oh_shit
+
+
+If you just pushed a wrong announcement you can use this to delete what you just did, just make sure the variable on line 13 matches the title you used for you global announcement in the other script, this doesn't edit or delete any previously existing announcements.
+
